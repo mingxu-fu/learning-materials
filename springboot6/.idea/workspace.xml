@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcfef31f-3c62-42aa-9ec8-a85fb5dcb372" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a4ptPQtMZAsjsLNJcAuvfMfbdc" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot10" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.41995358" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.jiaoben">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yingxue.lesson.task.Test" />
+      <module name="springboot-async" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yingxue.lesson.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yingxue.lesson.task.demo" />
+      <module name="springboot-async" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yingxue.lesson.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jiaoben" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yingxue.lesson.task.jiaoben" />
+      <module name="springboot-async" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yingxue.lesson.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jihe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yingxue.lesson.task.jihe" />
+      <module name="springboot-async" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yingxue.lesson.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootAsyncApplicationTests.testTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-async" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yingxue.lesson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yingxue.lesson" />
+      <option name="MAIN_CLASS_NAME" value="com.yingxue.lesson.SpringbootAsyncApplicationTests" />
+      <option name="METHOD_NAME" value="testTask" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScheduleTaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="schedule-task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingxue.lesson.ScheduleTaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootAsyncApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-async" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingxue.lesson.SpringbootAsyncApplication" />
+      <option name="VM_PARAMETERS" value="-XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=D:/temp/202008.hprof" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.demo" />
+      <item itemvalue="Application.jihe" />
+      <item itemvalue="Application.jiaoben" />
+      <item itemvalue="JUnit.SpringbootAsyncApplicationTests.testTask" />
+      <item itemvalue="Spring Boot.ScheduleTaskApplication" />
+      <item itemvalue="Spring Boot.SpringbootAsyncApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.jiaoben" />
+        <item itemvalue="Application.jihe" />
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="JUnit.SpringbootAsyncApplicationTests.testTask" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcfef31f-3c62-42aa-9ec8-a85fb5dcb372" name="Default Changelist" comment="" />
+      <created>1586004935368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586004935368</updated>
+      <workItem from="1586004938964" duration="5024000" />
+      <workItem from="1586247704668" duration="21000" />
+      <workItem from="1592879786387" duration="17657000" />
+      <workItem from="1592978984094" duration="7003000" />
+      <workItem from="1593305364382" duration="3158000" />
+      <workItem from="1594606686099" duration="73000" />
+      <workItem from="1595238155705" duration="1240000" />
+      <workItem from="1597026892872" duration="1991000" />
+      <workItem from="1597811594292" duration="1945000" />
+      <workItem from="1597975598089" duration="2343000" />
+      <workItem from="1598326007243" duration="2701000" />
+      <workItem from="1598414334946" duration="6920000" />
+      <workItem from="1598589733542" duration="6957000" />
+      <workItem from="1598796867093" duration="1778000" />
+      <workItem from="1598840325380" duration="7495000" />
+      <workItem from="1598926930231" duration="2015000" />
+      <workItem from="1599009958174" duration="596000" />
+      <workItem from="1599098541961" duration="596000" />
+      <workItem from="1599362048563" duration="3177000" />
+      <workItem from="1600746790652" duration="3203000" />
+      <workItem from="1600825765448" duration="3046000" />
+      <workItem from="1600921940389" duration="6602000" />
+      <workItem from="1601001139039" duration="3681000" />
+      <workItem from="1601173202714" duration="10000" />
+      <workItem from="1601256057530" duration="3533000" />
+      <workItem from="1601807426415" duration="2350000" />
+      <workItem from="1602048330087" duration="4020000" />
+      <workItem from="1602213656749" duration="647000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

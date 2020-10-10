@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mybatis-demo/mybatis-demo.iml" filepath="$PROJECT_DIR$/mybatis-demo/mybatis-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot4.iml" filepath="$PROJECT_DIR$/.idea/springboot4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-demo/test-webservice/test-webservice.iml" filepath="$PROJECT_DIR$/mybatis-demo/test-webservice/test-webservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-demo/yingxue-dao/yingxue-dao.iml" filepath="$PROJECT_DIR$/mybatis-demo/yingxue-dao/yingxue-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-demo/yingxue-service/yingxue-service.iml" filepath="$PROJECT_DIR$/mybatis-demo/yingxue-service/yingxue-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-demo/yingxue-vo/yingxue-vo.iml" filepath="$PROJECT_DIR$/mybatis-demo/yingxue-vo/yingxue-vo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-demo/yingxue-web/yingxue-web.iml" filepath="$PROJECT_DIR$/mybatis-demo/yingxue-web/yingxue-web.iml" />
+    </modules>
+  </component>
+</project>

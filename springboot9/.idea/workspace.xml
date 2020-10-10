@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b61a474-5b4e-4cce-9e3f-7a22600e699b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bXgnFwtI5pBkAdskEb5GCcMyOM" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.41995358" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\网易云课程资料\springboot课程课件源码\每章源码及课件\springboot9\company-frame\src\main\resources\templates" />
+      <recent name="D:\网易云课程资料\springboot课程课件源码\每章源码及课件\springboot9\company-frame\src\main\resources\templates\users" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CompanyFrameApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="company-frame" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingxue.lesson.CompanyFrameApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b61a474-5b4e-4cce-9e3f-7a22600e699b" name="Default Changelist" comment="" />
+      <created>1588784018895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588784018895</updated>
+      <workItem from="1588784023671" duration="1299000" />
+      <workItem from="1589373979394" duration="7746000" />
+      <workItem from="1589382817224" duration="1004000" />
+      <workItem from="1589894567808" duration="4438000" />
+      <workItem from="1591003833728" duration="992000" />
+      <workItem from="1591012640955" duration="3334000" />
+      <workItem from="1591020319458" duration="1099000" />
+      <workItem from="1591059198909" duration="623000" />
+      <workItem from="1593333960083" duration="708000" />
+      <workItem from="1594172700507" duration="102000" />
+      <workItem from="1594606752652" duration="589000" />
+      <workItem from="1598328280467" duration="1201000" />
+      <workItem from="1600845350958" duration="117000" />
+      <workItem from="1602139682995" duration="2348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

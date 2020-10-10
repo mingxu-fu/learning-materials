@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4333ce36-c8c6-4f62-bdc1-c68233068835" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a5BIIK2mKJ8TIyOaBIcDlqgjLB" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.41995358" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.demo">
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yingxue.lesson.shiro.demo" />
+      <module name="lesson-shiro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yingxue.lesson.shiro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LessonShiroApplicationTests.testIniRealm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson-shiro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yingxue.lesson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yingxue.lesson" />
+      <option name="MAIN_CLASS_NAME" value="com.yingxue.lesson.LessonShiroApplicationTests" />
+      <option name="METHOD_NAME" value="testIniRealm" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LessonShiroApplicationTests.testJdbcRealm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson-shiro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yingxue.lesson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yingxue.lesson" />
+      <option name="MAIN_CLASS_NAME" value="com.yingxue.lesson.LessonShiroApplicationTests" />
+      <option name="METHOD_NAME" value="testJdbcRealm" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LessonShiroApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lesson-shiro" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingxue.lesson.LessonShiroApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShiroCombatApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shiro-combat" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingxue.lesson.ShiroCombatApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.demo" />
+        <item itemvalue="JUnit.LessonShiroApplicationTests.testJdbcRealm" />
+        <item itemvalue="JUnit.LessonShiroApplicationTests.testIniRealm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4333ce36-c8c6-4f62-bdc1-c68233068835" name="Default Changelist" comment="" />
+      <created>1586015493616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586015493616</updated>
+      <workItem from="1586015496283" duration="601000" />
+      <workItem from="1586134509740" duration="9061000" />
+      <workItem from="1586245996871" duration="1187000" />
+      <workItem from="1586329458911" duration="998000" />
+      <workItem from="1586356066519" duration="1640000" />
+      <workItem from="1586359338249" duration="3658000" />
+      <workItem from="1586422718032" duration="5984000" />
+      <workItem from="1586686940570" duration="8334000" />
+      <workItem from="1586780262748" duration="2081000" />
+      <workItem from="1586783511712" duration="5423000" />
+      <workItem from="1586867064636" duration="4515000" />
+      <workItem from="1587831166633" duration="18000" />
+      <workItem from="1587887188473" duration="26000" />
+      <workItem from="1587989520270" duration="26000" />
+      <workItem from="1588123495880" duration="1000000" />
+      <workItem from="1588208475081" duration="1580000" />
+      <workItem from="1592527940690" duration="223000" />
+      <workItem from="1592528700619" duration="1726000" />
+      <workItem from="1592531284630" duration="6660000" />
+      <workItem from="1592638553368" duration="302000" />
+      <workItem from="1594348335656" duration="5675000" />
+      <workItem from="1594606708113" duration="47000" />
+      <workItem from="1602128806120" duration="4240000" />
+      <workItem from="1602208894475" duration="2768000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

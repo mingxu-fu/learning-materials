@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-initializr-demo/spring-initializr-demo.iml" filepath="$PROJECT_DIR$/spring-initializr-demo/spring-initializr-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-configuration/springboot-configuration.iml" filepath="$PROJECT_DIR$/springboot-configuration/springboot-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-demo/springboot-demo.iml" filepath="$PROJECT_DIR$/springboot-demo/springboot-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mock-mvc/springboot-mock-mvc.iml" filepath="$PROJECT_DIR$/springboot-mock-mvc/springboot-mock-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-profile/springboot-profile.iml" filepath="$PROJECT_DIR$/springboot-profile/springboot-profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot2.iml" filepath="$PROJECT_DIR$/.idea/springboot2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yingxue-base-parent/yingxue-base-parent.iml" filepath="$PROJECT_DIR$/yingxue-base-parent/yingxue-base-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yingxue-base-parent/yingxue-service/yingxue-service.iml" filepath="$PROJECT_DIR$/yingxue-base-parent/yingxue-service/yingxue-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yingxue-base-parent/yingxue-web/yingxue-web.iml" filepath="$PROJECT_DIR$/yingxue-base-parent/yingxue-web/yingxue-web.iml" />
+    </modules>
+  </component>
+</project>
