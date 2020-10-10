@@ -1,0 +1,28 @@
+#server:
+#  port: 8083
+#
+#person:
+#  username: zhangsan
+#  salary: 22000
+#  age: 28
+#  sex: male
+#  pets: cat,dog
+#  list:
+#    - lisi
+#    - wangwu
+#  friend:
+#      name: laoliu
+#      age: 30
+#  children:
+#    - name: ting
+#      weight: 10
+#    - name: hao
+#      weight: 30
+#  employee:
+#    name: lisi
+#    age: 21
+#
+##JWT 密钥
+#jwt:
+#  secretKey: xxxxxfdsfxxx
+#  issuer: yingxue.com

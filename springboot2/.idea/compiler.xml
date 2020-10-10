@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-initializr-demo" />
+        <module name="springboot-configuration" />
+        <module name="springboot-demo" />
+        <module name="springboot-mock-mvc" />
+        <module name="yingxue-web" />
+        <module name="yingxue-service" />
+        <module name="springboot-profile" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-initializr-demo" target="1.8" />
+      <module name="springboot-configuration" target="1.8" />
+      <module name="springboot-demo" target="1.8" />
+      <module name="springboot-mock-mvc" target="1.8" />
+      <module name="springboot-profile" target="1.8" />
+      <module name="yingxue-base-parent" target="1.8" />
+      <module name="yingxue-service" target="1.8" />
+      <module name="yingxue-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-initializr-demo" options="-parameters" />
+      <module name="springboot-configuration" options="-parameters" />
+      <module name="springboot-demo" options="-parameters" />
+      <module name="springboot-mock-mvc" options="-parameters" />
+      <module name="springboot-profile" options="-parameters" />
+      <module name="yingxue-service" options="-parameters" />
+      <module name="yingxue-web" options="-parameters" />
+    </option>
+  </component>
+</project>

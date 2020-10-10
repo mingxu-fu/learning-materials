@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="/layui/css/layui.css">
+    <style type="text/css">
+        div{
+            position:relative;
+            overflow:hidden;
+        }
+        div img{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            display: block;
+            min-width: 100%;
+            min-height: 100%;
+            transform:translate(-50%,-50%);
+        }
+    </style>
+</head>
+<body>
+<div class="layui-carousel" id="rotationView">
+    <div carousel-item="" id="carousel-item">
+    </div>
+</div>
+
+<h3><a name="2.-%E7%B3%BB%E7%BB%9F%E5%8A%9F%E8%83%BD" class="md-header-anchor"></a><span>2. 系统功能</span></h3>
+<ol>
+    <li><span>用户管理：用户是系统操作者，该功能主要完成系统用户配置。</span></li>
+    <li><span>部门管理：配置系统组织机构（公司、部门、小组），树结构展现。</span></li>
+    <li><span>菜单管理：配置系统菜单，操作权限，按钮权限标识等。</span></li>
+    <li><span>角色管理：角色菜单权限分配、设置角色按机构进行数据范围权限划分。</span></li>
+    <li><span>接口管理：根据业务代码自动生成相关的 api 接口文档。</span></li>
+    <li><span>SQL 监控：对系统使用的 sql 进行监控，可快速查询运行效率。</span></li>
+    <li><span>日志管理：对用户的操作进行记录。</span></li>
+
+</ol>
+<h3><a name="3.-%E5%85%B7%E6%9C%89%E5%A6%82%E4%B8%8B%E7%89%B9%E7%82%B9" class="md-header-anchor"></a><span>3. 具有如下特点</span></h3>
+<ul>
+    <li><span>灵活的权限控制，可控制到页面或按钮，满足绝大部分的权限需求</span></li>
+    <li><span>当角色或者菜单权限发生变化的时候能够自动刷新用户权限无需退出登录</span></li>
+    <li><span>完善的企业、部门、小组管理。</span></li>
+    <li><span>支持分布式部署，jwt 无状态身份认证。</span></li>
+    <li><span>友好的代码结构及注释，便于阅读及二次开发</span></li>
+    <li><span>页面交互使用thymeleaf+layui ，极大的提高了开发效率。</span></li>
+    <li><span>菜单支持无线层级展示、解决 layui.tree 树形组件数据回显错乱。</span></li>
+    <li><span>引入swagger文档支持，方便编写API接口文档。</span></li>
+
+</ul>
+
+</body>
+<script src="/layui/layui.js"></script>
+<script src="/js/core.util.js"></script>
+<script>
+    layui.use(['carousel','jquery','layer'],function () {
+        var carousel=layui.carousel;
+        var $=layui.jquery;
+        var layer=layui.layer;
+        CoreUtil.sendAjax("/api/rotations",null,function (res) {
+            var data=res.data;
+            var carouselHtml="";
+            if(data!=undefined&&data.length>0){
+                $.each(data,function (index,item) {
+                    carouselHtml+='<div>';
+                    carouselHtml+='<a href="'+item.url+'" target="_blank">';
+                    carouselHtml+='<img src="'+item.fileUrl+'">';
+                    carouselHtml+='</img></a></div>';
+                });
+                $("#carousel-item").html(carouselHtml);
+
+            }
+            //图片轮播
+            carousel.render({
+                elem: '#rotationView'
+                ,width: '100%'
+                ,height: '440px'
+                ,interval: 3000
+            });
+        },"GET",false);
+    })
+</script>
+</html>

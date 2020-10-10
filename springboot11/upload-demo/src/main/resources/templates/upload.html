@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form method="post" enctype="multipart/form-data" action="/upload">
+    代理人名称：<input type="text" name="agentName"/></br>
+    代理人手机：<input type="text" name="agentPhone"/></br>
+    营业执照：<input type="file" name="businessImg"/></br>
+    <input type="submit" value="提交">
+</form>
+</body>
+<script src="/layui/layui.js"></script>
+<script src="/js/core.util.js"></script>
+<script>
+    layui.use(['jquery','layer'],function () {
+        var $=layui.jquery;
+        var layer=layui.layer;
+        CoreUtil.sendAjax("http://localhost:8080/api/user/roles/fcf34b56-a7a2-4719-9236-867495e74c31",null,function (res) {
+            layer.msg(JSON.stringify(res));
+        },"GET",false);
+    })
+</script>
+</html>
