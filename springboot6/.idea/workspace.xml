@@ -40,6 +40,7 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1a4ptPQtMZAsjsLNJcAuvfMfbdc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -52,11 +53,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../springboot与cloud/漫谈spring cloud与spring boot基础架构-课件资料/spring-cloud-in-action" />
+    <property name="last_opened_file_path" value="E:/Git/Git/cmd/git.exe" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.41995358" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -217,7 +218,7 @@
       <workItem from="1602213656749" duration="647000" />
       <workItem from="1602294486406" duration="1425000" />
       <workItem from="1603158972758" duration="1670000" />
-      <workItem from="1603683447616" duration="2852000" />
+      <workItem from="1603683447616" duration="3566000" />
     </task>
     <task id="LOCAL-00001" summary="单例模式">
       <created>1603685596179</created>
@@ -226,7 +227,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603685596179</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="单例模式">
+      <created>1603686952868</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603686952868</updated>
+    </task>
+    <task id="LOCAL-00003" summary="单例模式">
+      <created>1603687030804</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603687030804</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
