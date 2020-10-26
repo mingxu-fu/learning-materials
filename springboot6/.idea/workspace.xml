@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcfef31f-3c62-42aa-9ec8-a85fb5dcb372" name="Default Changelist" comment="" />
+    <list default="true" id="bcfef31f-3c62-42aa-9ec8-a85fb5dcb372" name="Default Changelist" comment="单例模式">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-async/src/main/java/com/yingxue/lesson/task/jihe.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-async/src/main/java/com/yingxue/lesson/task/jihe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot9/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,16 +35,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1a4ptPQtMZAsjsLNJcAuvfMfbdc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../springboot与cloud/漫谈spring cloud与spring boot基础架构-课件资料/spring-cloud-in-action" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.41995358" />
@@ -56,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.jiaoben">
+  <component name="RunManager" selected="Application.jihe">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yingxue.lesson.task.Test" />
       <module name="springboot-async" />
@@ -152,8 +163,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.jiaoben" />
         <item itemvalue="Application.jihe" />
+        <item itemvalue="Application.jiaoben" />
         <item itemvalue="Application.demo" />
         <item itemvalue="Application.Test" />
         <item itemvalue="JUnit.SpringbootAsyncApplicationTests.testTask" />
@@ -201,10 +212,26 @@
       <workItem from="1601807426415" duration="2350000" />
       <workItem from="1602048330087" duration="4020000" />
       <workItem from="1602213656749" duration="647000" />
+      <workItem from="1602294486406" duration="1425000" />
+      <workItem from="1603158972758" duration="1670000" />
+      <workItem from="1603683447616" duration="1604000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
