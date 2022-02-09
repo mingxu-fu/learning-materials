@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="557c3c96-72ab-49c3-bbc1-61b1c1936f20" name="Default Changelist" comment="" />
+    <list default="true" id="557c3c96-72ab-49c3-bbc1-61b1c1936f20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../springboot6/.idea/libraries/Maven__com_tdunning_t_digest_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot6/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot6/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot6/.idea/libraries/Maven__org_elasticsearch_jna_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot6/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/ModelAndIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot9/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot10/company-frame/src/main/java/com/yingxue/lesson/aop/aspect/SysLogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot10/company-frame/src/main/java/com/yingxue/lesson/aop/aspect/SysLogAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot10/company-frame/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot10/company-frame/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/springboot-async/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/SpringbootAsyncApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/SpringbootAsyncApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/Model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/jiaoben.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/jihe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/jihe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/test/java/com/yingxue/lesson/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/springboot-async/src/test/java/com/yingxue/lesson/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot9/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,15 +53,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1acdkj4WEn2ubswszLASeFIh3Oi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.41995358" />
@@ -98,10 +127,26 @@
       <workItem from="1596068664190" duration="3644000" />
       <workItem from="1596073279684" duration="1778000" />
       <workItem from="1596413254575" duration="688000" />
+      <workItem from="1607053842740" duration="686000" />
+      <workItem from="1607055428393" duration="700000" />
+      <workItem from="1618675394506" duration="651000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

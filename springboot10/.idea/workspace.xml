@@ -7,29 +7,11 @@
       <change afterPath="$PROJECT_DIR$/../springboot6/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_4.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../springboot6/.idea/libraries/Maven__org_elasticsearch_jna_4_5_1.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../springboot6/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/ModelAndIO.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../springboot8/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../springboot9/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/company-frame/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/company-frame/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/company-frame/src/main/java/com/yingxue/lesson/aop/aspect/SysLogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/company-frame/src/main/java/com/yingxue/lesson/aop/aspect/SysLogAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/company-frame/src/main/java/com/yingxue/lesson/shiro/CustomRealm.java" beforeDir="false" afterPath="$PROJECT_DIR$/company-frame/src/main/java/com/yingxue/lesson/shiro/CustomRealm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/company-frame/src/main/java/com/yingxue/lesson/vo/req/UserUpdatePwdReqVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/company-frame/src/main/java/com/yingxue/lesson/vo/req/UserUpdatePwdReqVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/company-frame/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/company-frame/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/company-frame/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/company-frame/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/company-frame.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/company-frame.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springboot6/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springboot6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/springboot-async/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/SpringbootAsyncApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/SpringbootAsyncApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/hebing/hebing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/hebing/hebing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/AsyncTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/AsyncTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/Model.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/jiaoben.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/jihe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/jihe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/test/java/com/yingxue/lesson/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/springboot-async/src/test/java/com/yingxue/lesson/MyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springboot8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot8/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springboot9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot9/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -64,6 +46,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="fumingxu &lt;1173494064@qq.com&gt;" />
         <option value="fu" />
       </list>
     </option>
@@ -75,6 +58,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="GO_FMT" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -243,8 +227,16 @@
       <workItem from="1637284681756" duration="1592000" />
       <workItem from="1638500439406" duration="446000" />
       <workItem from="1639549395239" duration="186000" />
-      <workItem from="1644409555351" duration="3128000" />
+      <workItem from="1644409555351" duration="4740000" />
     </task>
+    <task id="LOCAL-00001" summary="shiro中自定义域部分补充完善">
+      <created>1644412889065</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644412889065</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,6 +254,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="shiro中自定义域部分补充完善" />
+    <option name="LAST_COMMIT_MESSAGE" value="shiro中自定义域部分补充完善" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

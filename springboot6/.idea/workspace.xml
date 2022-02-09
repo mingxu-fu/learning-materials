@@ -2,8 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcfef31f-3c62-42aa-9ec8-a85fb5dcb372" name="Default Changelist" comment="单例模式">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_tdunning_t_digest_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_jna_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-async/src/main/java/com/yingxue/lesson/task/ModelAndIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot9/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springboot10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot10/company-frame/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot10/company-frame/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot10/company-frame/src/main/java/com/yingxue/lesson/aop/aspect/SysLogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot10/company-frame/src/main/java/com/yingxue/lesson/aop/aspect/SysLogAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot10/company-frame/src/main/java/com/yingxue/lesson/vo/req/UserUpdatePwdReqVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot10/company-frame/src/main/java/com/yingxue/lesson/vo/req/UserUpdatePwdReqVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot10/company-frame/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot10/company-frame/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot10/company-frame/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot10/company-frame/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot10/logs/company-frame.log" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot10/logs/company-frame.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-async/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-async/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-async/src/main/java/com/yingxue/lesson/SpringbootAsyncApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-async/src/main/java/com/yingxue/lesson/SpringbootAsyncApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-async/src/main/java/com/yingxue/lesson/hebing/hebing.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-async/src/main/java/com/yingxue/lesson/hebing/hebing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-async/src/main/java/com/yingxue/lesson/task/AsyncTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-async/src/main/java/com/yingxue/lesson/task/AsyncTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-async/src/main/java/com/yingxue/lesson/task/Model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-async/src/main/java/com/yingxue/lesson/task/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-async/src/main/java/com/yingxue/lesson/task/jiaoben.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-async/src/main/java/com/yingxue/lesson/task/jihe.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-async/src/main/java/com/yingxue/lesson/task/jihe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-async/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-async/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-async/src/test/java/com/yingxue/lesson/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-async/src/test/java/com/yingxue/lesson/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot8/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springboot9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot9/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,6 +55,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -43,7 +70,9 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1a4ptPQtMZAsjsLNJcAuvfMfbdc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
@@ -53,11 +82,23 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/Git/Git/cmd/git.exe" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.41995358" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yingxue.lesson.netty.Course" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -71,9 +112,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.jihe">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yingxue.lesson.task.Test" />
+  <component name="RunManager" selected="JUnit.SpringbootAsyncApplicationTests.testTask">
+    <configuration name="ModelAndIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yingxue.lesson.task.ModelAndIO" />
       <module name="springboot-async" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yingxue.lesson.task.demo" />
+    <configuration name="PSVM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yingxue.lesson.task.PSVM" />
       <module name="springboot-async" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jiaoben" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yingxue.lesson.task.jiaoben" />
+    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yingxue.lesson.task.Temp" />
       <module name="springboot-async" />
       <extension name="coverage">
         <pattern>
@@ -111,15 +152,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jihe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yingxue.lesson.task.jihe" />
+    <configuration name="MyTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot-async" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yingxue.lesson.task.*" />
+          <option name="PATTERN" value="com.yingxue.lesson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.yingxue.lesson" />
+      <option name="MAIN_CLASS_NAME" value="com.yingxue.lesson.MyTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -157,21 +201,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.demo" />
-      <item itemvalue="Application.jihe" />
-      <item itemvalue="Application.jiaoben" />
-      <item itemvalue="JUnit.SpringbootAsyncApplicationTests.testTask" />
+      <item itemvalue="Application.Temp" />
+      <item itemvalue="Application.PSVM" />
+      <item itemvalue="Application.ModelAndIO" />
+      <item itemvalue="JUnit.MyTest.test" />
       <item itemvalue="Spring Boot.ScheduleTaskApplication" />
       <item itemvalue="Spring Boot.SpringbootAsyncApplication" />
+      <item itemvalue="JUnit.SpringbootAsyncApplicationTests.testTask" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.jihe" />
-        <item itemvalue="Application.jiaoben" />
-        <item itemvalue="Application.demo" />
-        <item itemvalue="Application.Test" />
         <item itemvalue="JUnit.SpringbootAsyncApplicationTests.testTask" />
+        <item itemvalue="Application.PSVM" />
+        <item itemvalue="Application.ModelAndIO" />
+        <item itemvalue="JUnit.MyTest.test" />
+        <item itemvalue="Application.Temp" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +262,91 @@
       <workItem from="1602213656749" duration="647000" />
       <workItem from="1602294486406" duration="1425000" />
       <workItem from="1603158972758" duration="1670000" />
-      <workItem from="1603683447616" duration="3566000" />
+      <workItem from="1603683447616" duration="4430000" />
+      <workItem from="1603714427476" duration="306000" />
+      <workItem from="1603778847761" duration="16302000" />
+      <workItem from="1603867110288" duration="2519000" />
+      <workItem from="1603936824328" duration="6232000" />
+      <workItem from="1603964245782" duration="656000" />
+      <workItem from="1604109440996" duration="10274000" />
+      <workItem from="1604282124723" duration="3644000" />
+      <workItem from="1604367509858" duration="587000" />
+      <workItem from="1604542396762" duration="1859000" />
+      <workItem from="1604545117154" duration="594000" />
+      <workItem from="1604633113585" duration="2880000" />
+      <workItem from="1604723099884" duration="1189000" />
+      <workItem from="1604906882475" duration="1176000" />
+      <workItem from="1605083781342" duration="2054000" />
+      <workItem from="1605149233666" duration="2305000" />
+      <workItem from="1605167706694" duration="149000" />
+      <workItem from="1606292324843" duration="2041000" />
+      <workItem from="1606365280383" duration="1242000" />
+      <workItem from="1606472488913" duration="1249000" />
+      <workItem from="1606893403324" duration="1106000" />
+      <workItem from="1606984313614" duration="9074000" />
+      <workItem from="1607053484919" duration="2749000" />
+      <workItem from="1607318391287" duration="7570000" />
+      <workItem from="1607393536639" duration="1214000" />
+      <workItem from="1607488259171" duration="810000" />
+      <workItem from="1607593860205" duration="1172000" />
+      <workItem from="1607651348358" duration="2085000" />
+      <workItem from="1607915437122" duration="2759000" />
+      <workItem from="1608172642566" duration="768000" />
+      <workItem from="1608177521821" duration="643000" />
+      <workItem from="1608515203151" duration="608000" />
+      <workItem from="1608516559901" duration="622000" />
+      <workItem from="1608519170141" duration="1484000" />
+      <workItem from="1609130222140" duration="1241000" />
+      <workItem from="1609299752358" duration="3000" />
+      <workItem from="1609568787844" duration="361000" />
+      <workItem from="1609752960708" duration="3760000" />
+      <workItem from="1609995775403" duration="4807000" />
+      <workItem from="1611542910113" duration="1397000" />
+      <workItem from="1611547123463" duration="1010000" />
+      <workItem from="1611816589165" duration="2814000" />
+      <workItem from="1613957231632" duration="4865000" />
+      <workItem from="1614057893349" duration="6652000" />
+      <workItem from="1614132917797" duration="2098000" />
+      <workItem from="1614219127797" duration="16289000" />
+      <workItem from="1614485619633" duration="9904000" />
+      <workItem from="1614562350968" duration="6250000" />
+      <workItem from="1614599691209" duration="1866000" />
+      <workItem from="1614648505167" duration="547000" />
+      <workItem from="1614654781684" duration="3192000" />
+      <workItem from="1615342770273" duration="863000" />
+      <workItem from="1615344650062" duration="1215000" />
+      <workItem from="1615904741533" duration="721000" />
+      <workItem from="1615951374486" duration="6938000" />
+      <workItem from="1616026791344" duration="4129000" />
+      <workItem from="1616120709071" duration="3414000" />
+      <workItem from="1616234950686" duration="590000" />
+      <workItem from="1616305007294" duration="1643000" />
+      <workItem from="1616393789109" duration="638000" />
+      <workItem from="1616655188701" duration="1523000" />
+      <workItem from="1616734129316" duration="2477000" />
+      <workItem from="1616808644247" duration="777000" />
+      <workItem from="1617063089987" duration="6030000" />
+      <workItem from="1617149822570" duration="1356000" />
+      <workItem from="1617237990795" duration="1418000" />
+      <workItem from="1617342501665" duration="2976000" />
+      <workItem from="1617501802645" duration="4789000" />
+      <workItem from="1617668154951" duration="2794000" />
+      <workItem from="1617755852525" duration="3030000" />
+      <workItem from="1617839544703" duration="8389000" />
+      <workItem from="1617926482752" duration="7461000" />
+      <workItem from="1618272286422" duration="590000" />
+      <workItem from="1618366339623" duration="3748000" />
+      <workItem from="1618637208845" duration="1244000" />
+      <workItem from="1618728785027" duration="1781000" />
+      <workItem from="1618803611391" duration="4373000" />
+      <workItem from="1623037048085" duration="4314000" />
+      <workItem from="1627516327488" duration="3748000" />
+      <workItem from="1627632544926" duration="1267000" />
+      <workItem from="1627864259927" duration="5538000" />
+      <workItem from="1630392922362" duration="1849000" />
+      <workItem from="1638497866694" duration="551000" />
+      <workItem from="1638498902194" duration="3903000" />
+      <workItem from="1639376235888" duration="3069000" />
     </task>
     <task id="LOCAL-00001" summary="单例模式">
       <created>1603685596179</created>
@@ -241,7 +369,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603687030804</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="单例模式">
+      <created>1603687636275</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603687636275</updated>
+    </task>
+    <task id="LOCAL-00005" summary="单例模式">
+      <created>1603687704692</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603687704692</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,5 +405,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="单例模式" />
     <option name="LAST_COMMIT_MESSAGE" value="单例模式" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-async/src/main/java/com/yingxue/lesson/aop/Cut.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
