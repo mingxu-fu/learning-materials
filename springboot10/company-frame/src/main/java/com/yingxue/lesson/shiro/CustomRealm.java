@@ -51,6 +51,12 @@ public class CustomRealm extends AuthorizingRealm {
         /**
          * 通过剩余的过期时间比较如果token的剩余过期时间大与标记key的剩余过期时间
          * 就说明这个tokne是在这个标记key之后生成的
+         *
+         *
+         * 有这个JWT_REFRESH_KEY就说明已经刷新token了，token内部的用户信息、权限信息可能失效，
+         * 因此此时需要去数据库读取权限，保证用户能正常使用，需要从数据库里去读取用户角色权限信息。
+         * 此处判断反过来看，如果token剩余的时间大于等于这个标记key的剩余时间，说明这个token是key之后生成的了
+         * 说明这个token是有效的。这个key生成的时候设置的过期时间是当前token的剩余时间
          */
         if(redisService.hasKey(Constant.JWT_REFRESH_KEY+userId)&&redisService.getExpire(Constant.JWT_REFRESH_KEY+userId, TimeUnit.MILLISECONDS)>JwtTokenUtil.getRemainingTime(accessToken)){
             List<String> roleNames = roleService.getRoleNames(userId);

@@ -8,6 +8,7 @@ import java.util.Map;
 import java.util.concurrent.*;
 
 public class hebing {
+    LinkedBlockingQueue queue = new LinkedBlockingQueue();
 
     class Request{
         String code;
@@ -63,7 +64,6 @@ public class hebing {
     }
 
 
-    LinkedBlockingQueue queue = new LinkedBlockingQueue();
 
     public Map<String,Object> query(String code) throws Exception{
 

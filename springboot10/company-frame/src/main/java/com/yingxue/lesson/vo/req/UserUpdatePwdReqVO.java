@@ -3,7 +3,7 @@ package com.yingxue.lesson.vo.req;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
 
-import javax.validation.constraints.NotBlank;
+import javax.ation.constraints.NotBlank;
 
 /**
  * @ClassName: UserUpdatePwdReqVO

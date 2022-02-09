@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce4a4c57-d917-44db-86d0-28297ecc0a3d" name="Default Changelist" comment="" />
+    <list default="true" id="ce4a4c57-d917-44db-86d0-28297ecc0a3d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../springboot6/.idea/libraries/Maven__com_tdunning_t_digest_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot6/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot6/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot6/.idea/libraries/Maven__org_elasticsearch_jna_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot6/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/ModelAndIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot9/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/company-frame/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/company-frame/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/company-frame/src/main/java/com/yingxue/lesson/aop/aspect/SysLogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/company-frame/src/main/java/com/yingxue/lesson/aop/aspect/SysLogAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/company-frame/src/main/java/com/yingxue/lesson/shiro/CustomRealm.java" beforeDir="false" afterPath="$PROJECT_DIR$/company-frame/src/main/java/com/yingxue/lesson/shiro/CustomRealm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/company-frame/src/main/java/com/yingxue/lesson/vo/req/UserUpdatePwdReqVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/company-frame/src/main/java/com/yingxue/lesson/vo/req/UserUpdatePwdReqVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/company-frame/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/company-frame/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/company-frame/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/company-frame/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/company-frame.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/company-frame.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/springboot-async/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/SpringbootAsyncApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/SpringbootAsyncApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/hebing/hebing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/hebing/hebing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/AsyncTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/AsyncTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/Model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/jiaoben.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/jihe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/java/com/yingxue/lesson/task/jihe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/springboot-async/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot6/springboot-async/src/test/java/com/yingxue/lesson/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot6/springboot-async/src/test/java/com/yingxue/lesson/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot9/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +61,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="fu" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1brH0cCkb4qN1bEilxjxCDzKdV4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
@@ -39,11 +81,18 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot9" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="F:/chaosblade/exec-jvm/chaosblade-exec-jvm-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.41995358" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -113,11 +162,106 @@
       <workItem from="1601001144442" duration="584000" />
       <workItem from="1601256325070" duration="8101000" />
       <workItem from="1602127955028" duration="14578000" />
+      <workItem from="1602315537349" duration="714000" />
+      <workItem from="1602316293435" duration="15000" />
+      <workItem from="1603964314521" duration="671000" />
+      <workItem from="1604543904644" duration="619000" />
+      <workItem from="1604545130602" duration="71000" />
+      <workItem from="1604634806793" duration="2136000" />
+      <workItem from="1604723146497" duration="1175000" />
+      <workItem from="1604907722071" duration="1902000" />
+      <workItem from="1605192047811" duration="6309000" />
+      <workItem from="1605425410971" duration="2862000" />
+      <workItem from="1605514195181" duration="2888000" />
+      <workItem from="1606287468070" duration="2204000" />
+      <workItem from="1607333014215" duration="3519000" />
+      <workItem from="1607594832514" duration="338000" />
+      <workItem from="1607915599567" duration="497000" />
+      <workItem from="1609753442902" duration="1274000" />
+      <workItem from="1611820162488" duration="1176000" />
+      <workItem from="1613984258061" duration="19000" />
+      <workItem from="1614063052925" duration="1497000" />
+      <workItem from="1614133001890" duration="1038000" />
+      <workItem from="1614220595129" duration="602000" />
+      <workItem from="1614225947272" duration="5000" />
+      <workItem from="1614226175666" duration="1257000" />
+      <workItem from="1615904885375" duration="3613000" />
+      <workItem from="1615973712670" duration="663000" />
+      <workItem from="1616044552062" duration="1456000" />
+      <workItem from="1616120757060" duration="1550000" />
+      <workItem from="1616307824615" duration="733000" />
+      <workItem from="1616316624478" duration="27000" />
+      <workItem from="1617006034707" duration="608000" />
+      <workItem from="1617069670932" duration="1889000" />
+      <workItem from="1617152289008" duration="639000" />
+      <workItem from="1617262351394" duration="818000" />
+      <workItem from="1617345483875" duration="1207000" />
+      <workItem from="1617688910109" duration="2051000" />
+      <workItem from="1617759327067" duration="1911000" />
+      <workItem from="1617846876226" duration="2085000" />
+      <workItem from="1617926288153" duration="774000" />
+      <workItem from="1618186231291" duration="590000" />
+      <workItem from="1618272172016" duration="868000" />
+      <workItem from="1618358892403" duration="1924000" />
+      <workItem from="1618445486457" duration="1174000" />
+      <workItem from="1618531413881" duration="3780000" />
+      <workItem from="1618628020990" duration="10379000" />
+      <workItem from="1618737080306" duration="3386000" />
+      <workItem from="1618792015899" duration="2169000" />
+      <workItem from="1618878596029" duration="1559000" />
+      <workItem from="1619003785458" duration="1240000" />
+      <workItem from="1619055769506" duration="11260000" />
+      <workItem from="1619136756996" duration="3072000" />
+      <workItem from="1619308869128" duration="3170000" />
+      <workItem from="1619395374320" duration="7797000" />
+      <workItem from="1619482478535" duration="10959000" />
+      <workItem from="1619568094966" duration="1237000" />
+      <workItem from="1619656240033" duration="880000" />
+      <workItem from="1619761964966" duration="5166000" />
+      <workItem from="1620186803253" duration="612000" />
+      <workItem from="1620456923502" duration="1225000" />
+      <workItem from="1620986739021" duration="637000" />
+      <workItem from="1621127702013" duration="1161000" />
+      <workItem from="1621306373196" duration="719000" />
+      <workItem from="1621409649316" duration="71000" />
+      <workItem from="1621930744120" duration="698000" />
+      <workItem from="1624247528464" duration="805000" />
+      <workItem from="1625962368188" duration="1585000" />
+      <workItem from="1626058947198" duration="103000" />
+      <workItem from="1626059071111" duration="1692000" />
+      <workItem from="1626248291044" duration="320000" />
+      <workItem from="1629805574694" duration="2497000" />
+      <workItem from="1629881468680" duration="608000" />
+      <workItem from="1629963545525" duration="625000" />
+      <workItem from="1630109404104" duration="808000" />
+      <workItem from="1630202487207" duration="2125000" />
+      <workItem from="1630636604055" duration="3328000" />
+      <workItem from="1630899297055" duration="2418000" />
+      <workItem from="1631880475080" duration="700000" />
+      <workItem from="1635170954778" duration="1918000" />
+      <workItem from="1635207443806" duration="5238000" />
+      <workItem from="1637284681756" duration="1592000" />
+      <workItem from="1638500439406" duration="446000" />
+      <workItem from="1639549395239" duration="186000" />
+      <workItem from="1644409555351" duration="3128000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -126,6 +270,11 @@
           <url>file://$PROJECT_DIR$/company-frame/src/main/java/com/yingxue/lesson/controller/UserController.java</url>
           <line>85</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/company-frame/src/main/java/com/yingxue/lesson/config/RedisConfig.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

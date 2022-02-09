@@ -1,5 +1,9 @@
 package com.yingxue.lesson;
 
+import com.yingxue.lesson.task.PSVM;
+import org.junit.Test;
+
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
@@ -34,5 +38,14 @@ public class MyTest {
 
 
 
+    }
+
+
+
+    @Test
+    public void test(){
+        URL fileURL =  PSVM.class.getClassLoader().getResource("1.xml");
+//        System.out.println(classLoader.getResource("Animals.java"));
+        System.out.println(fileURL);
     }
 }

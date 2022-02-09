@@ -34,7 +34,7 @@ public class jihe {
         List list = new ArrayList();
         list.add("bbb");
         list.add("ccc");
-        list.add("aaaa");
+        list.add(2);
         list.add(2,"ddd");
         System.out.println("***************************************");
         for (Object ll :list){

@@ -1,7 +1,11 @@
 package com.yingxue.lesson;
 
+import org.jasypt.encryption.StringEncryptor;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
 import org.springframework.scheduling.annotation.EnableAsync;
 import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
@@ -14,7 +18,16 @@ import java.util.concurrent.ThreadPoolExecutor;
 
 @SpringBootApplication
 @EnableAsync
-public class SpringbootAsyncApplication {
+public class SpringbootAsyncApplication implements CommandLineRunner {
+
+    @Autowired
+    private ApplicationContext appCtx;
+
+    @Autowired
+    private StringEncryptor codeSheepEncryptorBean;
+
+
+
 
     public static void main(String[] args) {
 
@@ -37,17 +50,11 @@ public class SpringbootAsyncApplication {
         return executor;
     }
 
-//    @Bean("myTaskExecutor")
-//    public Executor test(){
-//        ThreadPoolTaskExecutor executor = new ThreadPoolTaskExecutor();
-//        executor.setCorePoolSize(10);
-//        executor.setQueueCapacity(200);
-//        executor.setMaxPoolSize(15);
-//        executor.setKeepAliveSeconds(60);
-//        executor.setWaitForTasksToCompleteOnShutdown(true);
-//        executor.setRejectedExecutionHandler(new ThreadPoolExecutor.CallerRunsPolicy());
-//        executor.setThreadNamePrefix("mytask-");
-//        return executor;
-//    }
+    @Override
+    public void run(String... args) throws Exception {
+
+    }
+
+
 
 }

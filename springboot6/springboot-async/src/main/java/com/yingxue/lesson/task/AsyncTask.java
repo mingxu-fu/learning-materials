@@ -24,7 +24,7 @@ public class AsyncTask {
         long startTime=System.currentTimeMillis();
         Thread.sleep(random.nextInt(10000));
         long endTime=System.currentTimeMillis();
-        int i = 1/0;
+
         System.out.println("完成任务一消耗的时间："+(endTime-startTime)+"毫秒");
         return new AsyncResult<>("任务一完成");
     }

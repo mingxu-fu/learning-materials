@@ -33,7 +33,7 @@ import java.util.UUID;
 @Component
 @Slf4j
 public class SysLogAspect {
-    //环绕增强
+
     @Autowired
     private SysLogMapper sysLogMapper;
     /**
